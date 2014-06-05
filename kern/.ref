@@ -1,0 +1,107 @@
+
+@dummy	100	<br><font size=+1><b>The Well-Tempered Clavier, Book I</b></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BWV 846<tt>-</tt>869&nbsp;&nbsp;(1722)<hr noshade align=left width=500>
+
+wtc1f01.krn	102	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 1 in C major<hlend>, <small>BWV 846</small>
+wtc1f02.krn	104	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 2 in C minor<hlend>, <small>BWV 847</small>
+wtc1f03.krn	106	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 3 in C-sharp major<hlend>, <small>BWV 848</small>
+wtc1f04.krn	108	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 4 in C-sharp minor<hlend>, <small>BWV 849</small>
+wtc1f05.krn	110	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 5 in D major<hlend>, <small>BWV 850</small>
+wtc1f06.krn	112	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 6 in D minor<hlend>, <small>BWV 851</small>
+wtc1f07.krn	114	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 7 in E-flat major<hlend>, <small>BWV 852</small>
+wtc1f08.krn	116	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 8 in D-sharp minor<hlend>, <small>BWV 853</small>
+wtc1f09.krn	118	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 9 in E major<hlend>, <small>BWV 854</small>
+wtc1f10.krn	120	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 10 in E minor<hlend>, <small>BWV 855</small>
+wtc1f11.krn	122	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 11 in F major<hlend>, <small>BWV 856</small>
+wtc1f12.krn	124	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 12 in F minor<hlend>, <small>BWV 857</small>
+wtc1f13.krn	126	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 13 in F-sharp major<hlend>, <small>BWV 858</small>
+wtc1f14.krn	128	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 14 in F-sharp minor<hlend>, <small>BWV 859</small>
+wtc1f15.krn	130	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 15 in G major<hlend>, <small>BWV 860</small>
+wtc1f16.krn	132	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 16 in G minor<hlend>, <small>BWV 861</small>
+wtc1f17.krn	134	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 17 in A-flat major<hlend>, <small>BWV 862</small>
+wtc1f18.krn	136	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 18 in G-sharp minor<hlend>, <small>BWV 863</small>
+wtc1f19.krn	138	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 19 in A major<hlend>, <small>BWV 864</small>
+wtc1f20.krn	140	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 20 in A minor<hlend>, <small>BWV 865</small>
+wtc1f21.krn	142	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 21 in B-flat major<hlend>, <small>BWV 866</small>
+wtc1f22.krn	144	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 22 in B-flat minor<hlend>, <small>BWV 867</small>
+wtc1f23.krn	146	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 23 in B major<hlend>, <small>BWV 868</small>
+wtc1f24.krn	148	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 24 in B minor<hlend>, <small>BWV 869</small>
+
+wtc1p01.krn	101	<hlstart>Prelude No. 1 in C major<hlend>, <small>BWV 846</small>
+wtc1p02.krn	103	<hlstart>Prelude No. 2 in C minor<hlend>, <small>BWV 847</small>
+wtc1p03.krn	105	<hlstart>Prelude No. 3 in C-sharp major<hlend>, <small>BWV 848</small>
+wtc1p04.krn	107	<hlstart>Prelude No. 4 in C-sharp minor<hlend>, <small>BWV 849</small>
+wtc1p05.krn	109	<hlstart>Prelude No. 5 in D major<hlend>, <small>BWV 850</small>
+wtc1p06.krn	111	<hlstart>Prelude No. 6 in D minor<hlend>, <small>BWV 851</small>
+wtc1p07.krn	113	<hlstart>Prelude No. 7 in E-flat major<hlend>, <small>BWV 852</small>
+wtc1p08.krn	115	<hlstart>Prelude No. 8 in E-flat minor<hlend>, <small>BWV 853</small>
+wtc1p09.krn	117	<hlstart>Prelude No. 9 in E major<hlend>, <small>BWV 854</small>
+wtc1p10.krn	119	<hlstart>Prelude No. 10 in E minor<hlend>, <small>BWV 855</small>
+wtc1p11.krn	121	<hlstart>Prelude No. 11 in F major<hlend>, <small>BWV 856</small>
+wtc1p12.krn	123	<hlstart>Prelude No. 12 in F minor<hlend>, <small>BWV 857</small>
+wtc1p13.krn	125	<hlstart>Prelude No. 13 in F-sharp major<hlend>, <small>BWV 858</small>
+wtc1p14.krn	127	<hlstart>Prelude No. 14 in F-sharp minor<hlend>, <small>BWV 859</small>
+wtc1p15.krn	129	<hlstart>Prelude No. 15 in G major<hlend>, <small>BWV 860</small>
+wtc1p16.krn	131	<hlstart>Prelude No. 16 in G minor<hlend>, <small>BWV 861</small>
+wtc1p17.krn	133	<hlstart>Prelude No. 17 in A-flat major<hlend>, <small>BWV 862</small>
+wtc1p18.krn	135	<hlstart>Prelude No. 18 in G-sharp minor<hlend>, <small>BWV 863</small>
+wtc1p19.krn	137	<hlstart>Prelude No. 19 in A major<hlend>, <small>BWV 864</small>
+wtc1p20.krn	139	<hlstart>Prelude No. 20 in A minor<hlend>, <small>BWV 865</small>
+wtc1p21.krn	141	<hlstart>Prelude No. 21 in B-flat major<hlend>, <small>BWV 866</small>
+wtc1p22.krn	143	<hlstart>Prelude No. 22 in B-flat minor<hlend>, <small>BWV 867</small>
+wtc1p23.krn	145	<hlstart>Prelude No. 23 in B major<hlend>, <small>BWV 868</small>
+wtc1p24.krn	147	<hlstart>Prelude No. 24 in B minor<hlend>, <small>BWV 869</small>
+
+@dummy	200	<br><font size=+1><b>The Well-Tempered Clavier, Book II</b></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BWV 870<tt>-</tt>893&nbsp;&nbsp;(1742)<hr noshade align=left width=500>
+
+wtc2f01.krn	202	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 1 in C major<hlend>, <small>BWV 870</small>
+wtc2f02.krn	204	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 2 in C minor<hlend>, <small>BWV 871</small>
+wtc2f03.krn	206	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 3 in C-sharp major<hlend>, <small>BWV 872</small>
+wtc2f04.krn	208	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 4 in C-sharp minor<hlend>, <small>BWV 873</small>
+wtc2f05.krn	210	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 5 in D major<hlend>, <small>BWV 874</small>
+wtc2f06.krn	212	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 6 in D minor<hlend>, <small>BWV 875</small>
+wtc2f07.krn	214	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 7 in E-flat major<hlend>, <small>BWV 876</small>
+wtc2f08.krn	216	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 8 in D-sharp minor<hlend>, <small>BWV 877</small>
+wtc2f09.krn	218	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 9 in E major<hlend>, <small>BWV 878</small>
+wtc2f10.krn	220	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 10 in E minor<hlend>, <small>BWV 879</small>
+wtc2f11.krn	222	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 11 in F major<hlend>, <small>BWV 880</small>
+wtc2f12.krn	224	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 12 in F minor<hlend>, <small>BWV 881</small>
+wtc2f13.krn	226	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 13 in F-sharp major<hlend>, <small>BWV 882</small>
+wtc2f14.krn	228	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 14 in F-sharp minor<hlend>, <small>BWV 883</small>
+wtc2f15.krn	230	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 15 in G major<hlend>, <small>BWV 884</small>
+wtc2f16.krn	232	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 16 in G minor<hlend>, <small>BWV 885</small>
+wtc2f17.krn	234	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 17 in A-flat major<hlend>, <small>BWV 886</small>
+wtc2f18.krn	236	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 18 in G-sharp minor<hlend>, <small>BWV 887</small>
+wtc2f19.krn	238	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 19 in A major<hlend>, <small>BWV 888</small>
+wtc2f20.krn	240	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 20 in A minor<hlend>, <small>BWV 889</small>
+wtc2f21.krn	242	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 21 in B-flat major<hlend>, <small>BWV 890</small>
+wtc2f22.krn	244	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 22 in B-flat minor<hlend>, <small>BWV 891</small>
+wtc2f23.krn	246	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 23 in B major<hlend>, <small>BWV 892</small>
+wtc2f24.krn	248	<nos>&nbsp;&nbsp;</nos><hlstart>Fugue No. 24 in B minor<hlend>, <small>BWV 893</small>
+
+wtc2p01.krn	201	<hlstart>Prelude No. 1 in C major<hlend>, <small>BWV 870</small>
+wtc2p02.krn	203	<hlstart>Prelude No. 2 in C minor<hlend>, <small>BWV 871</small>
+wtc2p03.krn	205	<hlstart>Prelude No. 3 in C-sharp major<hlend>, <small>BWV 872</small>
+wtc2p04.krn	207	<hlstart>Prelude No. 4 in C-sharp minor<hlend>, <small>BWV 873</small>
+wtc2p05.krn	209	<hlstart>Prelude No. 5 in D major<hlend>, <small>BWV 874</small>
+wtc2p06.krn	211	<hlstart>Prelude No. 6 in D minor<hlend>, <small>BWV 875</small>
+wtc2p07.krn	213	<hlstart>Prelude No. 7 in E-flat major<hlend>, <small>BWV 876</small>
+wtc2p08.krn	215	<hlstart>Prelude No. 8 in D-sharp minor<hlend>, <small>BWV 877</small>
+wtc2p09.krn	217	<hlstart>Prelude No. 9 in E major<hlend>, <small>BWV 878</small>
+wtc2p10.krn	219	<hlstart>Prelude No. 10 in E minor<hlend>, <small>BWV 879</small>
+wtc2p11.krn	221	<hlstart>Prelude No. 11 in F major<hlend>, <small>BWV 880</small>
+wtc2p12.krn	223	<hlstart>Prelude No. 12 in F minor<hlend>, <small>BWV 881</small>
+wtc2p13.krn	225	<hlstart>Prelude No. 13 in F-sharp major<hlend>, <small>BWV 882</small>
+wtc2p14.krn	227	<hlstart>Prelude No. 14 in F-sharp minor<hlend>, <small>BWV 883</small>
+wtc2p15.krn	229	<hlstart>Prelude No. 15 in G major<hlend>, <small>BWV 884</small>
+wtc2p16.krn	231	<hlstart>Prelude No. 16 in G minor<hlend>, <small>BWV 885</small>
+wtc2p17.krn	233	<hlstart>Prelude No. 17 in A-flat major<hlend>, <small>BWV 886</small>
+wtc2p18.krn	235	<hlstart>Prelude No. 18 in G-sharp minor<hlend>, <small>BWV 887</small>
+wtc2p19.krn	237	<hlstart>Prelude No. 19 in A major<hlend>, <small>BWV 888</small>
+wtc2p20.krn	239	<hlstart>Prelude No. 20 in A minor<hlend>, <small>BWV 889</small>
+wtc2p21.krn	241	<hlstart>Prelude No. 21 in B-flat major<hlend>, <small>BWV 890</small>
+wtc2p22.krn	243	<hlstart>Prelude No. 22 in B-flat minor<hlend>, <small>BWV 891</small>
+wtc2p23.krn	245	<hlstart>Prelude No. 23 in B major<hlend>, <small>BWV 892</small>
+wtc2p24.krn	247	<hlstart>Prelude No. 24 in B minor<hlend>, <small>BWV 893</small>
+
+
+@dummy	999	<br><br><br>

@@ -1,17 +1,11 @@
-Digital edition of Haydn quartets
-=====================================
+Digital edition of the Well-tempered Clavier
+============================================
 
-This repository is a digital edition of the quartets composed by
-Joseph Haydn, encoded in the Humdrum file format.
+This repository is a digital edition of the the Well-tempered Clavier
+by J.S. Bach (Books I & II), encoded in the Humdrum file format.
 Tools for processing the encodings in this format on the command-line
 can be found online at https://github.com/humdrum-tools
 
-The encodings are located in the 'kern' directory.
-Scans of the source edition can be downloaded from 
-[kernScores](http://kern.humdrum.org) with this command:
-```bash
-   make reference
-```
 
 These digital scores can also be found as a submodule in the 
 [humdrum-data](https://github.com/humdrum-tools/humdrum-data) repository.
